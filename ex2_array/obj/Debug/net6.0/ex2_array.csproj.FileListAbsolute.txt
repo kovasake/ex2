@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.AssemblyInfo.cs
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\bin\Debug\net6.0\ex2_array.exe
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\bin\Debug\net6.0\ex2_array.deps.json
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\bin\Debug\net6.0\ex2_array.runtimeconfig.json
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\bin\Debug\net6.0\ex2_array.dll
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\bin\Debug\net6.0\ex2_array.pdb
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.dll
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\refint\ex2_array.dll
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.pdb
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ex2_array.genruntimeconfig.cache
+C:\Users\Данил\Desktop\Учеба по IT\Project\ex1\ex2_array\obj\Debug\net6.0\ref\ex2_array.dll
